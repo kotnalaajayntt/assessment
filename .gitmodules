@@ -1,0 +1,3 @@
+[submodule "assessment-backend"]
+	path = assessment-backend
+	url = https://github.com/kotnalaajayntt/assessment.git
